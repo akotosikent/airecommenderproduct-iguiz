@@ -28,7 +28,7 @@ DEBUG = True
 import os
 
 # Environment variables
-SECRET_KEY = os.getenv('9d4-ax1@ve!a2iljud%*41(kd11some#z^2j&9t(se3+r=gia&', "fallback_dev_secret")
+SECRET_KEY = os.getenv('tph#%%+10!222adx04c#7aj7bi%@8m0c@*zy6(ni#0ta3u^hug', "fallback_dev_secret")
 DEBUG = False
 ALLOWED_HOSTS = ['ai-recommender-k6wy.onrender.com', 'localhost', '127.0.0.1']
 
